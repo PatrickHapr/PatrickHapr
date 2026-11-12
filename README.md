@@ -1,16 +1,19 @@
-## Hi there 👋
+# Patrick Alves Bastos
+ 
+Engenheiro de software com experiência em **.NET** e **Java**, focado em **IA generativa** e machine learning. Formado pela **UFPR** e cursando pós-graduação em **Inteligência Artificial Aplicada**.
 
-<!--
-**PatrickHapr/PatrickHapr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ **Tecnologias**
+ 
+* **Backend:** C#, .NET, Java, Spring Boot, REST APIs, Microsserviços
+* **Frontend:** Angular, Vue.js
+* **Arquitetura e padrões:** Microsserviços, DDD, Clean Architecture, Arquitetura Hexagonal, Event-Driven
+* **IA:** AWS Bedrock, RAG, Fine-Tuning, Agentes de IA, MCP, Amazon S3 Vectors
+* **ML e Deep Learning:** Python, R, scikit-learn, TensorFlow/Keras, XGBoost, OpenCV, pandas
+* **Cloud e DevOps:** AWS, Azure, Docker, Kubernetes, Terraform, Kafka, RabbitMQ
+* **Bancos de dados:** PostgreSQL, SQL Server, Oracle, DynamoDB, Redis
+* **Qualidade e observabilidade:** testes automatizados (JUnit, Mockito, Spock), SonarQube, Datadog, OpenSearch, Elasticsearch
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Artigos Publicados sobre IA**
+ 
+* [Bancos Vetoriais e Modelos de Embedding: avaliação comparativa na recuperação semântica em língua portuguesa](http://dx.doi.org/10.33448/rsd-v14i10.49768), *Research, Society and Development*, 2025
+* [Sistemas de recomendación y procesamiento de lenguaje natural: una revisión estructurada](https://doi.org/10.22201/iibi.24488321xe.2026.106.59106), *Investigación Bibliotecológica (UNAM)*, 2026 (coautor)
