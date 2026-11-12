@@ -1,7 +1,7 @@
 # Patrick Alves Bastos
  
 Engenheiro de software com experiência em  experiência no desenvolvimento de aplicações escaláveis, APIs REST e microsserviços, com atuação principal
-em C#, .NET (ASP.NET MVC/Core, Entity Framework Core, Dapper) e forte integração entre backend e frontend, focado em **IA generativa** e machine learning. Formado pela **UFPR** e cursando pós-graduação em **Inteligência Artificial Aplicada**. 
+em C#, .NET (ASP.NET MVC/Core, Entity Framework Core, Dapper) e forte integração entre backend e frontend, focado em IA generativa e machine learning. Formado pela **UFPR** e cursando pós-graduação em **Inteligência Artificial Aplicada**. 
 
 🛠️ **Tecnologias**
  
@@ -17,4 +17,4 @@ em C#, .NET (ASP.NET MVC/Core, Entity Framework Core, Dapper) e forte integraç�
 📚 **Artigos Publicados sobre IA**
  
 * [Bancos Vetoriais e Modelos de Embedding: avaliação comparativa na recuperação semântica em língua portuguesa](http://dx.doi.org/10.33448/rsd-v14i10.49768), *Research, Society and Development*, 2025
-* [Sistemas de recomendación y procesamiento de lenguaje natural: una revisión estructurada](https://doi.org/10.22201/iibi.24488321xe.2026.106.59106), *Investigación Bibliotecológica (UNAM)*, 2026 (coautor)
+* [Sistemas de recomendación y procesamiento de lenguaje natural: una revisión estructurada](https://doi.org/10.22201/iibi.24488321xe.2026.106.59106), *Investigación Bibliotecológica (UNAM)*, 2026
