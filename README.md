@@ -1,6 +1,7 @@
 # Patrick Alves Bastos
  
-Engenheiro de software com experiência em **.NET** e **Java**, focado em **IA generativa** e machine learning. Formado pela **UFPR** e cursando pós-graduação em **Inteligência Artificial Aplicada**.
+Engenheiro de software com experiência em  experiência no desenvolvimento de aplicações escaláveis, APIs REST e microsserviços, com atuação principal
+em C#, .NET (ASP.NET MVC/Core, Entity Framework Core, Dapper) e forte integração entre backend e frontend, focado em **IA generativa** e machine learning. Formado pela **UFPR** e cursando pós-graduação em **Inteligência Artificial Aplicada**. 
 
 🛠️ **Tecnologias**
  
